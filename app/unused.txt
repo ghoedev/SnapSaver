@@ -636,7 +636,7 @@ com.google.common.base.CommonPattern:
 com.google.android.gms.internal.ads.zzela:
     static void <clinit>()
     static final synthetic int[] zza
-com.ghodel.snapsaver.fragment.VideosFragment:
+ghoe.snapsaver.fragment.VideosFragment:
     private static final java.lang.String ARG_PARAM1
     private static final java.lang.String ARG_PARAM2
 androidx.appcompat.widget.ActionMenuPresenter:
@@ -695,7 +695,7 @@ androidx.constraintlayout.helper.widget.Layer:
     private static final java.lang.String TAG
 com.google.common.collect.RegularImmutableTable:
     static com.google.common.collect.RegularImmutableTable forCells(java.lang.Iterable)
-com.ghodel.snapsaver.activity.StickerMakerActivity:
+ghoe.snapsaver.activity.StickerMakerActivity:
     private android.graphics.Bitmap imgbitmap
     private android.graphics.Bitmap resized
 com.google.common.collect.AbstractNavigableMap:
@@ -952,12 +952,12 @@ androidx.core.util.PatternsCompat:
     private static final java.lang.String EMAIL_CHAR
     private static final java.lang.String EMAIL_ADDRESS_LOCAL_PART
     private static final java.lang.String EMAIL_ADDRESS_DOMAIN
-com.ghodel.snapsaver.fragment.PhotoFragment:
+ghoe.snapsaver.fragment.PhotoFragment:
     private static final java.lang.String ARG_PARAM1
     private static final java.lang.String ARG_PARAM2
 com.google.gson.internal.Excluder:
     private static final double IGNORE_VERSIONS
-com.ghodel.snapsaver.utils.CrashHandler$CrashActivity:
+ghoe.snapsaver.utils.CrashHandler$CrashActivity:
     private static final java.lang.String EXTRA_CRASH_INFO
 androidx.appcompat.widget.ActionBarOverlayLayout:
     private static final java.lang.String TAG
@@ -2443,7 +2443,7 @@ com.google.common.hash.LittleEndianByteArray:
     static long load64Safely(byte[],int,int)
     static void store64(byte[],int,long)
     static boolean usingUnsafe()
-com.ghodel.snapsaver.activity.MainActivity:
+ghoe.snapsaver.activity.MainActivity:
     private static final int ID_PHOTOS
     private static final int ID_VIDEOS
 com.google.android.exoplayer2.util.package-info
@@ -4020,7 +4020,7 @@ androidx.recyclerview.widget.FastScroller:
 com.google.android.material.timepicker.ClockHandView:
     public void <init>(android.content.Context)
     private static final int ANIMATION_DURATION
-com.ghodel.snapsaver.utils.TouchImageView:
+ghoe.snapsaver.utils.TouchImageView:
     static final int NONE
     static final int DRAG
     static final int ZOOM
@@ -6184,7 +6184,7 @@ androidx.transition.ArcMotion:
 com.bumptech.glide.load.data.mediastore.MediaStoreUtil:
     private static final int MINI_THUMB_WIDTH
     private static final int MINI_THUMB_HEIGHT
-com.ghodel.snapsaver.activity.Splashscreen:
+ghoe.snapsaver.activity.Splashscreen:
     private static final int LOADING
 com.google.android.gms.internal.ads.zzemy:
     static void <clinit>()
@@ -6862,7 +6862,7 @@ com.google.common.collect.FilteredEntryMultimap$AsMap$1EntrySetImpl$1:
     public java.util.Map$Entry computeNext()
 androidx.core.app.NotificationCompat$BubbleMetadata$Builder:
     public final androidx.core.app.NotificationCompat$BubbleMetadata$Builder setFlag(int,boolean)
-com.ghodel.snapsaver.utils.VideoWallpaper:
+ghoe.snapsaver.utils.VideoWallpaper:
     public static synthetic java.lang.String access$000()
     public static final java.lang.String TAG
 com.google.android.material.shape.ShapePath$ShadowCompatOperation:
@@ -7226,10 +7226,10 @@ com.google.common.primitives.Ints$LexicographicalComparator:
     public int compare(int[],int[])
 com.google.common.collect.ImmutableList:
     public com.google.common.collect.ImmutableList subListUnchecked(int,int)
-com.ghodel.snapsaver.activity.DirectMessageActivity:
-    public static synthetic android.widget.EditText access$000(com.ghodel.snapsaver.activity.DirectMessageActivity)
-    public static synthetic com.rilixtech.widget.countrycodepicker.CountryCodePicker access$100(com.ghodel.snapsaver.activity.DirectMessageActivity)
-    public static synthetic com.ghodel.snapsaver.helper.DBHelper access$200(com.ghodel.snapsaver.activity.DirectMessageActivity)
+ghoe.snapsaver.activity.DirectMessageActivity:
+    public static synthetic android.widget.EditText access$000(ghoe.snapsaver.activity.DirectMessageActivity)
+    public static synthetic com.rilixtech.widget.countrycodepicker.CountryCodePicker access$100(ghoe.snapsaver.activity.DirectMessageActivity)
+    public static synthetic ghoe.snapsaver.helper.DBHelper access$200(ghoe.snapsaver.activity.DirectMessageActivity)
 androidx.constraintlayout.solver.widgets.analyzer.WidgetRun:
     public final void resolveDimension(int,int)
 androidx.core.text.TextDirectionHeuristicsCompat:
@@ -7597,8 +7597,8 @@ androidx.room.SharedSQLiteStatement:
     public final androidx.sqlite.db.SupportSQLiteStatement createNewStatement()
     public final androidx.sqlite.db.SupportSQLiteStatement getStmt(boolean)
 com.google.android.gms.internal.ads.zzeuz
-com.ghodel.snapsaver.utils.TouchImageView$ScaleListener:
-    public void <init>(com.ghodel.snapsaver.utils.TouchImageView)
+ghoe.snapsaver.utils.TouchImageView$ScaleListener:
+    public void <init>(ghoe.snapsaver.utils.TouchImageView)
 com.google.gson.internal.bind.TreeTypeAdapter:
     public final com.google.gson.TypeAdapter delegate()
 com.google.common.collect.MapMakerInternalMap$WeakKeyDummyValueSegment:
@@ -7838,12 +7838,12 @@ com.google.android.gms.internal.ads.zzdkd:
     public final synthetic com.google.android.gms.internal.ads.zzdke zzb(java.lang.Exception)
     public final android.content.Context zza
     public final com.google.android.gms.internal.ads.zzbao zze
-com.ghodel.snapsaver.fragment.VideosFragment:
-    public static synthetic androidx.recyclerview.widget.RecyclerView access$000(com.ghodel.snapsaver.fragment.VideosFragment)
-    public static synthetic void access$100(com.ghodel.snapsaver.fragment.VideosFragment)
-    public static synthetic androidx.swiperefreshlayout.widget.SwipeRefreshLayout access$200(com.ghodel.snapsaver.fragment.VideosFragment)
-    public static synthetic com.ghodel.snapsaver.adapter.SnapSaverAdapter access$302(com.ghodel.snapsaver.fragment.VideosFragment,com.ghodel.snapsaver.adapter.SnapSaverAdapter)
-    public static synthetic com.ghodel.snapsaver.adapter.SnapSaverAdapter access$300(com.ghodel.snapsaver.fragment.VideosFragment)
+ghoe.snapsaver.fragment.VideosFragment:
+    public static synthetic androidx.recyclerview.widget.RecyclerView access$000(ghoe.snapsaver.fragment.VideosFragment)
+    public static synthetic void access$100(ghoe.snapsaver.fragment.VideosFragment)
+    public static synthetic androidx.swiperefreshlayout.widget.SwipeRefreshLayout access$200(ghoe.snapsaver.fragment.VideosFragment)
+    public static synthetic ghoe.snapsaver.adapter.SnapSaverAdapter access$302(ghoe.snapsaver.fragment.VideosFragment,ghoe.snapsaver.adapter.SnapSaverAdapter)
+    public static synthetic ghoe.snapsaver.adapter.SnapSaverAdapter access$300(ghoe.snapsaver.fragment.VideosFragment)
     public java.lang.String mParam1
     public java.lang.String mParam2
 com.google.android.gms.internal.ads.zzbqa:
@@ -8051,7 +8051,7 @@ com.google.android.gms.internal.ads.zzcxq:
     public final synthetic com.google.android.gms.internal.ads.zzbom zzc(com.google.android.gms.internal.ads.zzdra,com.google.android.gms.internal.ads.zzdqo)
     public final synthetic void zzd(com.google.android.gms.internal.ads.zzdra,com.google.android.gms.internal.ads.zzdqo)
 com.google.android.gms.internal.ads.zzefq
-com.ghodel.snapsaver.activity.StickerMakerActivity:
+ghoe.snapsaver.activity.StickerMakerActivity:
     public final int PICK_IMAGE_MULTIPLE
 com.google.android.material.bottomsheet.BottomSheetBehavior$4:
     public final boolean releasedLow(android.view.View)
@@ -8741,12 +8741,12 @@ com.google.android.exoplayer2.decoder.SimpleDecoder:
     public final void run()
     public final boolean canDecodeBuffer()
     public final void releaseOutputBufferInternal(com.google.android.exoplayer2.decoder.OutputBuffer)
-com.ghodel.snapsaver.fragment.PhotoFragment:
-    public static synthetic androidx.recyclerview.widget.RecyclerView access$000(com.ghodel.snapsaver.fragment.PhotoFragment)
-    public static synthetic void access$100(com.ghodel.snapsaver.fragment.PhotoFragment)
-    public static synthetic androidx.swiperefreshlayout.widget.SwipeRefreshLayout access$200(com.ghodel.snapsaver.fragment.PhotoFragment)
-    public static synthetic com.ghodel.snapsaver.adapter.SnapSaverAdapter access$302(com.ghodel.snapsaver.fragment.PhotoFragment,com.ghodel.snapsaver.adapter.SnapSaverAdapter)
-    public static synthetic com.ghodel.snapsaver.adapter.SnapSaverAdapter access$300(com.ghodel.snapsaver.fragment.PhotoFragment)
+ghoe.snapsaver.fragment.PhotoFragment:
+    public static synthetic androidx.recyclerview.widget.RecyclerView access$000(ghoe.snapsaver.fragment.PhotoFragment)
+    public static synthetic void access$100(ghoe.snapsaver.fragment.PhotoFragment)
+    public static synthetic androidx.swiperefreshlayout.widget.SwipeRefreshLayout access$200(ghoe.snapsaver.fragment.PhotoFragment)
+    public static synthetic ghoe.snapsaver.adapter.SnapSaverAdapter access$302(ghoe.snapsaver.fragment.PhotoFragment,ghoe.snapsaver.adapter.SnapSaverAdapter)
+    public static synthetic ghoe.snapsaver.adapter.SnapSaverAdapter access$300(ghoe.snapsaver.fragment.PhotoFragment)
     public java.lang.String mParam1
     public java.lang.String mParam2
 com.google.android.exoplayer2.ui.SubtitleView:
@@ -8768,8 +8768,8 @@ com.google.android.material.button.MaterialButtonToggleGroup$CornerData:
     public static com.google.android.material.button.MaterialButtonToggleGroup$CornerData right(com.google.android.material.button.MaterialButtonToggleGroup$CornerData)
     public static com.google.android.material.button.MaterialButtonToggleGroup$CornerData top(com.google.android.material.button.MaterialButtonToggleGroup$CornerData)
     public static com.google.android.material.button.MaterialButtonToggleGroup$CornerData bottom(com.google.android.material.button.MaterialButtonToggleGroup$CornerData)
-com.ghodel.snapsaver.utils.CrashHandler$CrashActivity:
-    public static synthetic java.lang.Boolean access$002(com.ghodel.snapsaver.utils.CrashHandler$CrashActivity,java.lang.Boolean)
+ghoe.snapsaver.utils.CrashHandler$CrashActivity:
+    public static synthetic java.lang.Boolean access$002(ghoe.snapsaver.utils.CrashHandler$CrashActivity,java.lang.Boolean)
     public final void showToast(java.lang.String)
     public final void restart()
     public final int dp2px(float)
@@ -8870,11 +8870,11 @@ com.bumptech.glide.load.engine.EngineJob$ResourceCallbacksAndExecutors:
     public int size()
     public void clear()
     public com.bumptech.glide.load.engine.EngineJob$ResourceCallbacksAndExecutors copy()
-com.ghodel.snapsaver.adapter.ContactAdapter:
-    public static synthetic android.content.Context access$000(com.ghodel.snapsaver.adapter.ContactAdapter)
-    public static synthetic com.ghodel.snapsaver.helper.DBHelper access$102(com.ghodel.snapsaver.adapter.ContactAdapter,com.ghodel.snapsaver.helper.DBHelper)
-    public static synthetic com.ghodel.snapsaver.helper.DBHelper access$100(com.ghodel.snapsaver.adapter.ContactAdapter)
-    public static void access$200(com.ghodel.snapsaver.adapter.ContactAdapter,int)
+ghoe.snapsaver.adapter.ContactAdapter:
+    public static synthetic android.content.Context access$000(ghoe.snapsaver.adapter.ContactAdapter)
+    public static synthetic ghoe.snapsaver.helper.DBHelper access$102(ghoe.snapsaver.adapter.ContactAdapter,ghoe.snapsaver.helper.DBHelper)
+    public static synthetic ghoe.snapsaver.helper.DBHelper access$100(ghoe.snapsaver.adapter.ContactAdapter)
+    public static void access$200(ghoe.snapsaver.adapter.ContactAdapter,int)
     public final void delete(int)
 com.google.common.net.PercentEscaper:
     public static boolean[] createSafeOctets(java.lang.String)
@@ -9064,8 +9064,8 @@ com.google.common.collect.Lists$StringAsImmutableList:
     public java.lang.Character get(int)
 com.bumptech.glide.load.resource.gif.StreamGifDecoder:
     public static byte[] inputStreamToBytes(java.io.InputStream)
-com.ghodel.snapsaver.activity.MainActivity$1:
-    public final synthetic com.ghodel.snapsaver.activity.MainActivity this$0
+ghoe.snapsaver.activity.MainActivity$1:
+    public final synthetic ghoe.snapsaver.activity.MainActivity this$0
 com.google.android.gms.common.AccountPicker$AccountChooserOptions:
     public static synthetic boolean zza(com.google.android.gms.common.AccountPicker$AccountChooserOptions)
     public static synthetic java.lang.String zzb(com.google.android.gms.common.AccountPicker$AccountChooserOptions)
@@ -11346,9 +11346,9 @@ androidx.core.widget.ContentLoadingProgressBar:
     public final void removeCallbacks()
 com.google.android.exoplayer2.upstream.cache.CachedRegionTracker:
     public final boolean regionsConnect(com.google.android.exoplayer2.upstream.cache.CachedRegionTracker$Region,com.google.android.exoplayer2.upstream.cache.CachedRegionTracker$Region)
-com.ghodel.snapsaver.activity.PhotoViewerActivity:
-    public static synthetic int access$000(com.ghodel.snapsaver.activity.PhotoViewerActivity)
-    public static synthetic java.util.ArrayList access$100(com.ghodel.snapsaver.activity.PhotoViewerActivity)
+ghoe.snapsaver.activity.PhotoViewerActivity:
+    public static synthetic int access$000(ghoe.snapsaver.activity.PhotoViewerActivity)
+    public static synthetic java.util.ArrayList access$100(ghoe.snapsaver.activity.PhotoViewerActivity)
     public java.io.File f
 androidx.constraintlayout.solver.PriorityGoalRow$1:
     public int compare(androidx.constraintlayout.solver.SolverVariable,androidx.constraintlayout.solver.SolverVariable)
@@ -11849,9 +11849,9 @@ androidx.drawerlayout.widget.DrawerLayout:
     public void dispatchOnDrawerSlide(android.view.View,float)
     public float getDrawerViewOffset(android.view.View)
     public void cancelChildViewTouch()
-com.ghodel.snapsaver.adapter.SnapSaverAdapter:
-    public static synthetic android.content.Context access$000(com.ghodel.snapsaver.adapter.SnapSaverAdapter)
-    public static synthetic java.util.ArrayList access$100(com.ghodel.snapsaver.adapter.SnapSaverAdapter)
+ghoe.snapsaver.adapter.SnapSaverAdapter:
+    public static synthetic android.content.Context access$000(ghoe.snapsaver.adapter.SnapSaverAdapter)
+    public static synthetic java.util.ArrayList access$100(ghoe.snapsaver.adapter.SnapSaverAdapter)
 com.google.android.gms.internal.measurement.zzhd:
     public void <init>(byte[],int,int,boolean)
     public final boolean zze
@@ -12193,8 +12193,8 @@ androidx.fragment.app.BackStackRecord:
 com.google.android.gms.internal.ads.zzafp:
     public final android.content.Context zzc
     public final com.google.android.gms.internal.ads.zzafr zze
-com.ghodel.snapsaver.activity.StickerMakerActivity$3:
-    public final synthetic com.ghodel.snapsaver.activity.StickerMakerActivity this$0
+ghoe.snapsaver.activity.StickerMakerActivity$3:
+    public final synthetic ghoe.snapsaver.activity.StickerMakerActivity this$0
 com.google.android.gms.internal.ads.zzqs:
     public static boolean zzaf(long)
     public static int zzag(com.google.android.gms.internal.ads.zzit)
@@ -12521,7 +12521,7 @@ com.google.common.cache.LongAddables$2:
     public com.google.common.cache.LongAddable get()
 com.google.android.exoplayer2.text.ttml.TtmlDecoder$CellResolution:
     public final int columns
-com.ghodel.snapsaver.utils.CrashHandler$1:
+ghoe.snapsaver.utils.CrashHandler$1:
     public final void writeFile(java.io.File,java.lang.String)
 com.google.android.gms.internal.ads.zzejb:
     public static final javax.crypto.Cipher zza()
@@ -13775,10 +13775,10 @@ androidx.core.text.TextDirectionHeuristicsCompat$AnyStrong:
     public final boolean mLookForRtl
 com.google.android.exoplayer2.audio.DefaultAudioSink$PositionTrackerListener:
     public void <init>(com.google.android.exoplayer2.audio.DefaultAudioSink)
-com.ghodel.snapsaver.activity.VideoViewerActivity:
-    public static synthetic com.ghodel.snapsaver.adapter.VideoAdapter access$000(com.ghodel.snapsaver.activity.VideoViewerActivity)
-    public static synthetic int access$100(com.ghodel.snapsaver.activity.VideoViewerActivity)
-    public static synthetic java.util.ArrayList access$200(com.ghodel.snapsaver.activity.VideoViewerActivity)
+ghoe.snapsaver.activity.VideoViewerActivity:
+    public static synthetic ghoe.snapsaver.adapter.VideoAdapter access$000(ghoe.snapsaver.activity.VideoViewerActivity)
+    public static synthetic int access$100(ghoe.snapsaver.activity.VideoViewerActivity)
+    public static synthetic java.util.ArrayList access$200(ghoe.snapsaver.activity.VideoViewerActivity)
     public java.io.File f
 androidx.appcompat.widget.ScrollingTabContainerView:
     public final boolean isCollapsed()
@@ -15228,7 +15228,7 @@ com.google.android.material.snackbar.SnackbarContentLayout:
     public void updateActionTextColorAlphaIfNeeded(float)
 com.bumptech.glide.request.target.FixedSizeDrawable:
     public final void updateMatrix()
-com.ghodel.snapsaver.helper.SnapSaverData:
+ghoe.snapsaver.helper.SnapSaverData:
     public android.content.Context context
 com.google.android.gms.internal.ads.zzdsj:
     public final com.google.android.gms.internal.ads.zzdsi zza
@@ -15873,7 +15873,7 @@ com.google.common.collect.MultimapBuilder$LinkedListSupplier:
     public java.util.List get()
 androidx.core.app.NotificationCompat$BubbleMetadata:
     public void <init>(android.app.PendingIntent,android.app.PendingIntent,androidx.core.graphics.drawable.IconCompat,int,int,int)
-com.ghodel.snapsaver.App:
+ghoe.snapsaver.App:
     public static void <clinit>()
 androidx.work.impl.constraints.controllers.NetworkNotRoamingController:
     public boolean isConstrained(androidx.work.impl.constraints.NetworkState)
@@ -16349,8 +16349,8 @@ androidx.media.AudioAttributesCompat:
     public static final int[] SDK_USAGES
 com.google.common.base.Throwables$1:
     public java.lang.StackTraceElement get(int)
-com.ghodel.snapsaver.activity.VideoViewerActivity$1:
-    public final synthetic com.ghodel.snapsaver.activity.VideoViewerActivity this$0
+ghoe.snapsaver.activity.VideoViewerActivity$1:
+    public final synthetic ghoe.snapsaver.activity.VideoViewerActivity this$0
 com.google.android.exoplayer2.source.MaskingMediaSource:
     public final java.lang.Object getInternalPeriodUid(java.lang.Object)
     public final java.lang.Object getExternalPeriodUid(java.lang.Object)
@@ -16798,7 +16798,7 @@ com.google.common.eventbus.Dispatcher$LegacyAsyncDispatcher$EventWithSubscriber:
 android.support.v4.media.MediaMetadataCompat$1:
     public android.support.v4.media.MediaMetadataCompat createFromParcel(android.os.Parcel)
     public android.support.v4.media.MediaMetadataCompat[] newArray(int)
-com.ghodel.snapsaver.utils.TouchImageView:
+ghoe.snapsaver.utils.TouchImageView:
     public float getFixDragTrans(float,float,float)
     public int oldMeasuredWidth
     public android.content.Context context
@@ -18948,7 +18948,7 @@ com.google.gson.internal.reflect.UnsafeReflectionAccessor:
 android.support.v4.media.MediaBrowserCompat$MediaBrowserImplApi21$3:
     public final synthetic android.support.v4.media.MediaBrowserCompat$MediaBrowserImplApi21 this$0
 androidx.transition.ViewOverlayImpl
-com.ghodel.snapsaver.adapter.VideoAdapter:
+ghoe.snapsaver.adapter.VideoAdapter:
     public boolean playWhenReady
     public int currentWindow
     public long playbackPosition
@@ -19627,8 +19627,8 @@ com.google.common.collect.StandardTable$ColumnMap:
 com.google.common.primitives.UnsignedBytes:
     public static java.util.Comparator lexicographicalComparatorJavaImpl()
     public static byte flip(byte)
-com.ghodel.snapsaver.activity.PhotoViewerActivity$1:
-    public final synthetic com.ghodel.snapsaver.activity.PhotoViewerActivity this$0
+ghoe.snapsaver.activity.PhotoViewerActivity$1:
+    public final synthetic ghoe.snapsaver.activity.PhotoViewerActivity this$0
 com.google.android.gms.ads.internal.zzr:
     public static synthetic com.google.android.gms.internal.ads.zzaah zzS(com.google.android.gms.ads.internal.zzr)
     public static synthetic java.lang.String zzT(com.google.android.gms.ads.internal.zzr,java.lang.String)
@@ -19867,9 +19867,9 @@ android.support.v4.media.MediaBrowserCompat$MediaBrowserImplApi21$5:
 com.google.gson.internal.bind.TypeAdapters$1:
     public void write(java.lang.Class)
     public java.lang.Class read()
-com.ghodel.snapsaver.adapter.ContactAdapter$ContactViewHolder:
+ghoe.snapsaver.adapter.ContactAdapter$ContactViewHolder:
     public android.widget.LinearLayout bgCardText
-    public final synthetic com.ghodel.snapsaver.adapter.ContactAdapter this$0
+    public final synthetic ghoe.snapsaver.adapter.ContactAdapter this$0
 androidx.appcompat.app.ActionBarDrawerToggleHoneycomb:
     public static androidx.appcompat.app.ActionBarDrawerToggleHoneycomb$SetIndicatorInfo setActionBarUpIndicator(android.app.Activity,android.graphics.drawable.Drawable,int)
     public static androidx.appcompat.app.ActionBarDrawerToggleHoneycomb$SetIndicatorInfo setActionBarDescription(androidx.appcompat.app.ActionBarDrawerToggleHoneycomb$SetIndicatorInfo,android.app.Activity,int)
@@ -20204,8 +20204,8 @@ com.google.android.gms.internal.measurement.zziw:
     public final com.google.android.gms.internal.measurement.zzkb zza(java.lang.Class)
 com.google.android.gms.internal.ads.zzcgx:
     public final com.google.android.gms.internal.ads.zzcgw zza
-com.ghodel.snapsaver.activity.MainActivity$3:
-    public final synthetic com.ghodel.snapsaver.activity.MainActivity this$0
+ghoe.snapsaver.activity.MainActivity$3:
+    public final synthetic ghoe.snapsaver.activity.MainActivity this$0
 androidx.recyclerview.widget.LayoutState:
     public boolean hasMore(androidx.recyclerview.widget.RecyclerView$State)
     public android.view.View next(androidx.recyclerview.widget.RecyclerView$Recycler)
@@ -20899,7 +20899,7 @@ com.bumptech.glide.load.data.mediastore.FileService:
     public boolean exists(java.io.File)
     public long length(java.io.File)
     public java.io.File get(java.lang.String)
-com.ghodel.snapsaver.activity.MainActivity$2:
+ghoe.snapsaver.activity.MainActivity$2:
     public static final synthetic boolean $assertionsDisabled
 com.google.common.collect.MapMakerInternalMap$WeakKeyWeakValueEntry$Helper:
     public static com.google.common.collect.MapMakerInternalMap$WeakKeyWeakValueEntry$Helper instance()
@@ -21830,8 +21830,8 @@ android.support.v4.media.MediaBrowserCompat$MediaBrowserImplApi21$7:
 androidx.appcompat.widget.ToolbarWidgetWrapper:
     public final int detectDisplayOptions()
     public final void setTitleInt(java.lang.CharSequence)
-com.ghodel.snapsaver.adapter.SnapSaverAdapter$SnapSaverViewHolder:
-    public final synthetic com.ghodel.snapsaver.adapter.SnapSaverAdapter this$0
+ghoe.snapsaver.adapter.SnapSaverAdapter$SnapSaverViewHolder:
+    public final synthetic ghoe.snapsaver.adapter.SnapSaverAdapter this$0
 com.google.android.gms.internal.ads.zzegd:
     public static java.util.concurrent.Executor zzc(java.util.concurrent.Executor,com.google.android.gms.internal.ads.zzeeh)
 androidx.appcompat.app.AppCompatDelegateImpl$ConfigurationImplApi24
@@ -21940,7 +21940,7 @@ com.google.android.exoplayer2.util.MimeTypes:
     public static int getTrackTypeForCustomMimeType(java.lang.String)
 com.bumptech.glide.load.data.mediastore.MediaStoreUtil:
     public static boolean isVideoUri(android.net.Uri)
-com.ghodel.snapsaver.activity.Splashscreen:
+ghoe.snapsaver.activity.Splashscreen:
     public final void showPermission()
     public final java.lang.String showVersionApp()
     public android.widget.ImageView imgLogo
@@ -22247,8 +22247,8 @@ com.google.android.gms.internal.ads.zzbja:
     public static synthetic com.google.android.gms.internal.ads.zzbjb zza()
 androidx.transition.Fade$1:
     public final synthetic androidx.transition.Fade this$0
-com.ghodel.snapsaver.utils.VideoWallpaper$VideoWallpagerEngine:
-    public static synthetic android.media.MediaPlayer access$100(com.ghodel.snapsaver.utils.VideoWallpaper$VideoWallpagerEngine)
+ghoe.snapsaver.utils.VideoWallpaper$VideoWallpagerEngine:
+    public static synthetic android.media.MediaPlayer access$100(ghoe.snapsaver.utils.VideoWallpaper$VideoWallpagerEngine)
 com.google.android.gms.tasks.zzi:
     public static synthetic java.lang.Object zza(com.google.android.gms.tasks.zzi)
     public static synthetic com.google.android.gms.tasks.OnCompleteListener zzb(com.google.android.gms.tasks.zzi)

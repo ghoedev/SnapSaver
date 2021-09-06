@@ -43,10 +43,10 @@
     <string name="add_to_whatsapp">Add To WhatsApp</string>
 
 
-    <!--  mengunakan akun muhammadmayudin dengan nama aplikasi iklan AppInfoX  -->
-    <string name="admod_id">ca-app-pub-9576695952668383~3619640023</string>
-    <string name="banner_ads">ca-app-pub-9576695952668383/6054231679</string>
-    <string name="interstisial_ads">ca-app-pub-9576695952668383/1660790513</string>
-    <string name="reward_ads">ca-app-pub-9576695952668383/6280608095</string>
-    <string name="native_ads">ca-app-pub-9576695952668383/6280608095</string>
+
+    <string name="admod_id">ca-app-pub-2513915580660974~6544396586</string>
+    <string name="banner_ads">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstisial_ads">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="reward_ads">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="native_ads">ca-app-pub-3940256099942544/2247696110</string>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.ghodel.snapsaver">
+    package="com.ghoe.snapsaver">
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -10,7 +10,7 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 
     <application
-        android:name=".App"
+        android:name="com.ghoe.snapsaver.App"
         android:allowBackup="true"
         android:icon="@drawable/icon"
         android:label="@string/app_name"
@@ -20,17 +20,17 @@
         tools:replace="android:allowBackup,android:theme">
 
         <activity
-            android:name=".activity.StickerMakerActivity"
+            android:name="com.ghoe.snapsaver.activity.StickerMakerActivity"
             android:label="@string/title_activity_sticker_maker"
             tools:replace="android:theme"
-            android:theme="@style/Theme.SnapSaver.NoActionBar"></activity>
+            android:theme="@style/Theme.SnapSaver.NoActionBar" />
         <!-- Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713 -->
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="@string/admod_id" />
 
         <activity
-            android:name=".activity.Splashscreen"
+            android:name="com.ghoe.snapsaver.activity.Splashscreen"
             android:noHistory="true"
             android:screenOrientation="portrait"
             android:theme="@style/SplashScreen">
@@ -41,31 +41,31 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".activity.MainActivity"
+            android:name="com.ghoe.snapsaver.activity.MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/SplashScreen" />
         <activity
-            android:name=".utils.CrashHandler$CrashActivity"
+            android:name="com.ghoe.snapsaver.utils.CrashHandler$CrashActivity"
             android:label="App Crash"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".activity.VideoViewerActivity"
+            android:name="com.ghoe.snapsaver.activity.VideoViewerActivity"
             android:theme="@style/SplashScreen" />
         <activity
-            android:name=".activity.PhotoViewerActivity"
+            android:name="com.ghoe.snapsaver.activity.PhotoViewerActivity"
             android:theme="@style/SplashScreen" />
         <activity
-            android:name=".activity.DirectMessageActivity"
+            android:name="com.ghoe.snapsaver.activity.DirectMessageActivity"
             android:windowSoftInputMode="stateVisible" />
 
-        <activity android:name=".whatsapp_code.activity.StickerDetailsActivity">
+        <activity android:name="com.ghoe.snapsaver.whatsapp_code.activity.StickerDetailsActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".activity.StickerMakerActivity" />
+                android:value="com.ghoe.snapsaver.activity.StickerMakerActivity" />
         </activity>
 
         <service
-            android:name=".utils.VideoWallpaper"
+            android:name="com.ghoe.snapsaver.utils.VideoWallpaper"
             android:permission="android.permission.BIND_WALLPAPER">
             <intent-filter>
                 <action android:name="android.service.wallpaper.WallpaperService" />
@@ -76,17 +76,17 @@
                 android:resource="@xml/videowallpaper" />
         </service>
 
-        <service android:name=".service.PhoneClipBoard"
+        <service android:name="com.ghoe.snapsaver.service.PhoneClipBoard"
             android:enabled="true"
             android:exported="false">
             <intent-filter>
-                <action android:name="com.ghodel.snapsaver.START_SERVICE"/>
+                <action android:name="ghoe.snapsaver.START_SERVICE"/>
             </intent-filter>
         </service>
 
 
         <provider
-            android:name=".whatsapp_code.provider.StickerContentProvider"
+            android:name="com.ghoe.snapsaver.whatsapp_code.provider.StickerContentProvider"
             android:authorities="${contentProviderAuthority}"
             android:enabled="true"
             android:exported="true"
